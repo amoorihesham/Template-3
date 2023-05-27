@@ -34,4 +34,4 @@ This is my first project ever after finishing learning the basics of "Html, Css"
   * Back To Top [Button]
   * Skills Section [Animate the skills progress when scroll to it]
 </details>
-[Template URL]: https://amoorihesham.github.io/Template-3/
+[Template URL]: https://amoorihesham.github.io/Third/
