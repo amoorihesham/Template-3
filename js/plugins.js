@@ -31,7 +31,7 @@ $(document).ready(function () {
 // Pure JS codes not a JQuery LIBS
 
 // Start the countdown timer
-let countDownDate = new Date("Dec 31, 2023 23:59:59").getTime();
+let countDownDate = new Date("Dec 31, 2024 23:59:59").getTime();
 
 let counter = setInterval(() => {
     let dateNow = new Date().getTime();
